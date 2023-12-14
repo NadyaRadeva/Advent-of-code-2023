@@ -12,12 +12,12 @@
 | ***Camel Cards - 07/12/2023***  | View | View |
 | ***Haunted Wasteland - 08/12/2023***  | View | View |
 | ***Mirage Maintenance - 09/12/2023***  | View | View |
-| | | |
+| ***Pipe maze - 10/10/2023*** | View | View |
 | ***Cosmic Expansion - 11/12/2023***| [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2011%20-%20Cosmic%20Expansion/Problem) | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2011%20-%20Cosmic%20Expansion/Source.cpp) |
-| | | |
-| | | |
-| | | |
-| | | |
+| ***Hot Springs - 12/12/2023*** | View | View |
+| ***Point of Incidence - 13/12/2023*** | View | View |
+| ***Parabolic Reflector Dish - 14/12/2023***| View | View |
+| ***-15/12/2023***  :birthday: | View | View |
 | | | |
 | | | |
 | | | |
