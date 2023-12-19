@@ -8,7 +8,7 @@
 |***Gear Ratios - 03/12/2023*** | View | View |
 | ***Scratchcards - 04/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%204%20-%20Scratchcards/Problem) | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%204%20-%20Scratchcards/Source.cpp) |
 | ***If You Give A Seed A Fertilizer - 05/12/2023***  | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%205%20-%20If%20You%20Give%20A%20Seed%20A%20Fertilizer/Problem) | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%205%20-%20If%20You%20Give%20A%20Seed%20A%20Fertilizer/Source.cpp)  |
-| ***Wait For It - 06/12/2023***  |  [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%206%20-%20Wait%20For%20It/Problem) | View |
+| ***Wait For It - 06/12/2023***  |  [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%206%20-%20Wait%20For%20It/Problem) | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%206%20-%20Wait%20For%20It/Source.cpp) |
 | ***Camel Cards - 07/12/2023***  | View | View |
 | ***Haunted Wasteland - 08/12/2023***  | View | View |
 | ***Mirage Maintenance - 09/12/2023***  | View | View |
