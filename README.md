@@ -14,7 +14,7 @@
 | ***Mirage Maintenance - 09/12/2023***  | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%209%20-%20Mirage%20Maintenance/Problem) | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%209%20-%20Mirage%20Maintenance/Source.cpp) |
 | ***Pipe maze - 10/10/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2010%20-%20Pipe%20Maze/Problem) | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2010%20-%20Pipe%20Maze/Source.cpp) |
 | ***Cosmic Expansion - 11/12/2023***| [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2011%20-%20Cosmic%20Expansion/Problem) | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2011%20-%20Cosmic%20Expansion/Source.cpp) |
-| ***Hot Springs - 12/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2012%20-%20Hot%20springs/Problem) | View |
+| ***Hot Springs - 12/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2012%20-%20Hot%20springs/Problem) | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2012%20-%20Hot%20springs/Source.cpp) |
 | ***Point of Incidence - 13/12/2023*** | View | View |
 | ***Parabolic Reflector Dish - 14/12/2023***| View | View |
 | ***Lens Library -15/12/2023***  :birthday: | View | View |
