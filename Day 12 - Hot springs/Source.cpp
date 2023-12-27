@@ -5,6 +5,9 @@ void readInput(char** matrix, unsigned int rows, unsigned int cols);
 void printOutput(char** matrix, unsigned int rows, unsigned int cols);
 void deleteMatrix(char** matrix, unsigned int rows, unsigned int cols);
 
+int findAllArrangements(int* damagedGroups, int numGroups);
+int findGroups(char** matrix, unsigned int rows, unsigned int cols);
+
 char** initialiseMatrix(unsigned int rows, unsigned int cols) {
     char** matrix = new char* [rows];
 
@@ -19,9 +22,8 @@ void readInput(char** matrix, unsigned int rows, unsigned int cols) {
     for (size_t i = 0; i < rows; ++i) {
         for (size_t j = 0; j < cols; ++j) {
             std::cin >> matrix[i][j];
-            if (!std::cin || matrix[i][j] != '?' || matrix[i][j] != '.' || matrix[i][j] != '#') {
+            if (!std::cin || (matrix[i][j] != '?' && matrix[i][j] != '.' && matrix[i][j] != '#')) {
                 throw std::runtime_error("Invalid input!");
-                break;
             }
         }
     }
@@ -36,7 +38,7 @@ void printOutput(char** matrix, unsigned int rows, unsigned int cols) {
     }
 }
 
-void deleteMatrix(char** matrix, unsigned int rows, unsigned cols) {
+void deleteMatrix(char** matrix, unsigned int rows, unsigned int cols) {
     for (size_t i = 0; i < rows; ++i) {
         delete[] matrix[i];
     }
@@ -48,7 +50,10 @@ int findAllArrangements(int* damagedGroups, int numGroups) {
     int totalArrangements = 1;
 
     for (int i = 0; i < numGroups; ++i) {
-        int powerValue = power(2, damagedGroups[i] - 1);
+        int powerValue = 1;
+        for (int j = 0; j < damagedGroups[i] - 1; ++j) {
+            powerValue *= 2;
+        }
         totalArrangements *= powerValue;
     }
 
@@ -97,7 +102,7 @@ int main() {
     std::cout << "Enter the rows and columns of your table of springs: ";
     std::cin >> rows >> cols;
     if (!std::cin || rows <= 0 || cols <= 0) {
-        throw std::runtime_error("Invalid error!");
+        throw std::runtime_error("Invalid input!");
         return 1;
     }
 
@@ -106,7 +111,6 @@ int main() {
     readInput(matrix, rows, cols);
     std::cout << "Your output: " << std::endl;
     printOutput(matrix, rows, cols);
-
 
     int result = findGroups(matrix, rows, cols);
     std::cout << "Result: " << result << std::endl;
