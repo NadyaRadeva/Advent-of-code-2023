@@ -15,16 +15,16 @@
 | ***Pipe maze - 10/10/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2010%20-%20Pipe%20Maze/Problem) | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2010%20-%20Pipe%20Maze/Source.cpp) |
 | ***Cosmic Expansion - 11/12/2023***| [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2011%20-%20Cosmic%20Expansion/Problem) | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2011%20-%20Cosmic%20Expansion/Source.cpp) |
 | ***Hot Springs - 12/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2012%20-%20Hot%20springs/Problem) | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2012%20-%20Hot%20springs/Source.cpp) |
-| ***Point of Incidence - 13/12/2023*** | View | View |
-| ***Parabolic Reflector Dish - 14/12/2023***| View | View |
-| ***Lens Library -15/12/2023***  :birthday: | View | View |
-| ***The Floor Will Be Lava - 16/12/2023*** | View | View |
-| ***Clumsy Crucible - 17/12/2023*** | View | View |
-| ***Lavaduct Lagoon - 18/12/2023*** | View | View |
-| ***Aplenty - 19/12/2023*** | View | View |
-| ***Pulse Propagation - 20/12/2023*** | View | View |
-| ***Step Counter - 21/12/2023*** | View | View |
-| ***Sand Slabs - 22/12/2023***| View | View |
-| | View | View |
-| | View | View |
-| | View | View |
+| ***Point of Incidence - 13/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2013%20-%20Point%20of%20Incidence/Problem) | View |
+| ***Parabolic Reflector Dish - 14/12/2023***| [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2014%20-%20Parabolic%20Reflector%20Dish/Problem) | View |
+| ***Lens Library -15/12/2023***  :birthday: | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2015%20-%20Lens%20Library/Problem) | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2015%20-%20Lens%20Library/Source.cpp) |
+| ***The Floor Will Be Lava - 16/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2016%20-%20The%20Floor%20Will%20Be%20Lava/Problem) | View |
+| ***Clumsy Crucible - 17/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2017%20-%20Clumsy%20Crucible/Problem) | View |
+| ***Lavaduct Lagoon - 18/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2018%20-%20Lavaduct%20Lagoon/Problem) | View |
+| ***Aplenty - 19/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2019%20-%20Aplenty/Problem) | View |
+| ***Pulse Propagation - 20/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2020%20-%20Pulse%20Propagation/Problem) | View |
+| ***Step Counter - 21/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2021%20-%20Step%20Counter/Problem) | View |
+| ***Sand Slabs - 22/12/2023***| [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2022%20-%20Sand%20Slabs/Problem) | View |
+| ***A Long Walk - 23/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2023%20-%20A%20Long%20Walk/Problem) | View |
+| ***Never Tell Me The Odds - 24/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2024%20-%20Never%20Tell%20Me%20The%20Odds/Problem) | View |
+| ***Snowverload - 25/12/2023*** | [View](https://github.com/NadyaRadeva/Advent-of-code-2023/blob/main/Day%2025%20-%20Snowverload/Problem) | View |
